@@ -1,0 +1,5 @@
+E:\Projects\CSharp\CSharpAdvanced\Methods\Demo2\bin\Debug\Demo2.exe.config
+E:\Projects\CSharp\CSharpAdvanced\Methods\Demo2\bin\Debug\Demo2.exe
+E:\Projects\CSharp\CSharpAdvanced\Methods\Demo2\bin\Debug\Demo2.pdb
+E:\Projects\CSharp\CSharpAdvanced\Methods\Demo2\obj\Debug\Demo2.exe
+E:\Projects\CSharp\CSharpAdvanced\Methods\Demo2\obj\Debug\Demo2.pdb
