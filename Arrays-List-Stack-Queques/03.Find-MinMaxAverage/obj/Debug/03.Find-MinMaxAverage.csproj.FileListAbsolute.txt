@@ -1,0 +1,8 @@
+E:\Projects\CSharp\CSharpAdvanced\Find-MinMaxAverage\bin\Debug\Find-MinMaxAverage.exe.config
+E:\Projects\CSharp\CSharpAdvanced\Find-MinMaxAverage\bin\Debug\Find-MinMaxAverage.exe
+E:\Projects\CSharp\CSharpAdvanced\Find-MinMaxAverage\bin\Debug\Find-MinMaxAverage.pdb
+E:\Projects\CSharp\CSharpAdvanced\Find-MinMaxAverage\obj\Debug\Find-MinMaxAverage.exe
+E:\Projects\CSharp\CSharpAdvanced\Find-MinMaxAverage\obj\Debug\Find-MinMaxAverage.pdb
+E:\Projects\CSharp\CSharpAdvanced\Arrays-List-Stack-Queques\03.Find-MinMaxAverage\bin\Debug\Find-MinMaxAverage.exe.config
+E:\Projects\CSharp\CSharpAdvanced\Arrays-List-Stack-Queques\03.Find-MinMaxAverage\obj\Debug\Find-MinMaxAverage.exe
+E:\Projects\CSharp\CSharpAdvanced\Arrays-List-Stack-Queques\03.Find-MinMaxAverage\obj\Debug\Find-MinMaxAverage.pdb

@@ -1,0 +1,8 @@
+E:\Projects\CSharp\CSharpAdvanced\CSharpAdvanced\bin\Debug\CSharpAdvanced.exe.config
+E:\Projects\CSharp\CSharpAdvanced\CSharpAdvanced\bin\Debug\CSharpAdvanced.exe
+E:\Projects\CSharp\CSharpAdvanced\CSharpAdvanced\bin\Debug\CSharpAdvanced.pdb
+E:\Projects\CSharp\CSharpAdvanced\CSharpAdvanced\obj\Debug\CSharpAdvanced.exe
+E:\Projects\CSharp\CSharpAdvanced\CSharpAdvanced\obj\Debug\CSharpAdvanced.pdb
+E:\Projects\CSharp\CSharpAdvanced\Arrays-List-Stack-Queques\01.SortArrayNumbers\bin\Debug\CSharpAdvanced.exe.config
+E:\Projects\CSharp\CSharpAdvanced\Arrays-List-Stack-Queques\01.SortArrayNumbers\obj\Debug\CSharpAdvanced.exe
+E:\Projects\CSharp\CSharpAdvanced\Arrays-List-Stack-Queques\01.SortArrayNumbers\obj\Debug\CSharpAdvanced.pdb

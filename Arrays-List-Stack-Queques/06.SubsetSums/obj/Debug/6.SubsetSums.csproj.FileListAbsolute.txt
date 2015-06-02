@@ -1,0 +1,1 @@
+E:\Projects\CSharp\CSharpAdvanced\6.SubsetSums\bin\Debug\6.SubsetSums.exe.config

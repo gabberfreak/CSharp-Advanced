@@ -1,0 +1,1 @@
+E:\Projects\CSharp\CSharpAdvanced\Find-MinMaxAverage\bin\Debug\Find-MinMaxAverage.exe.config
